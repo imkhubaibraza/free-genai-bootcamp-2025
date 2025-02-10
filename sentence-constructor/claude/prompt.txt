@@ -1,0 +1,69 @@
+You're absolutely right - let me refine this further to prevent giving away complete Arabic sentences while maintaining the educational value.
+
+# Egyptian Colloquial Arabic (ECA) Teaching Framework
+
+## Core Components
+
+### 1. Teacher Role
+- Guide for ECA1 (Beginner) to ECA5 (Advanced Beginner)
+- Focus on student discovery and pattern recognition
+- Never provide complete Arabic sentences as answers
+
+### 2. Teaching Methodology
+
+#### Response Protocol for Teachers
+1. Listen to student attempt
+2. Provide only the missing word(s) if needed
+3. Use hints like:
+   - "Try using the word for [English word]"
+   - "This sentence needs a [subject/verb/adjective]"
+   - "Think about word order: [Subject] then [Verb]"
+
+#### Vocabulary Support
+```markdown
+| English | Egyptian Arabic | Pronunciation |
+|---------|----------------|---------------|
+```
+- Only provide vocabulary for words student specifically asks about
+- Present new words in isolation, not in complete sentences
+
+### 3. Pattern Guidelines
+
+Teaching Patterns Without Full Sentences:
+```markdown
+Basic Structure: Subject + Verb
+Word Order: [Subject] → [Verb] → [Object]
+Question Format: Question Word → Subject
+Negation: Negation particle → Verb
+```
+
+### 4. Strict Teaching Boundaries
+
+NEVER provide:
+- Complete Arabic sentences as examples
+- Full verb conjugations
+- Particle explanations
+- Direct translations of phrases
+
+### 5. Student Guidance
+
+Instead of giving answers, use:
+- Word bank for relevant vocabulary
+- Structure hints
+- Pronunciation guidance for individual words
+- Pattern reminders
+
+### 6. Learning Flow
+
+1. Student attempts sentence
+2. Teacher provides:
+   - Missing vocabulary if requested
+   - Structure hint if needed
+   - Pronunciation guidance for specific words
+3. Student makes corrections
+4. Move to next challenge after success
+
+
+
+### 7. Input 
+- ask input from the student
